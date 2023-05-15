@@ -1,0 +1,5 @@
+## This folder is dedicated to tensors and exploring different functions in TensorFlow
+
+Tensors are a fundamental part in understanding machine learning so I figured this was a good place to start my learning. Tensors are used in representing data in numbers in 
+order for machine learning algorithms and nueral networks to observe patterns. These patterns are then used to modify input tensors into output tensors such that this output
+tensor can be converted into readable data.
