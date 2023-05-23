@@ -10,7 +10,7 @@ TensorFlow, a popular open-source machine learning framework, extensively utiliz
 
 TensorFlow represents tensors as tf.Tensor objects, which are n-dimensional arrays that store the data values. These tensors can be created from various sources like NumPy arrays, Python lists, or directly generated using TensorFlow operations. Tensors in TensorFlow are immutable, meaning their values cannot be changed once created. However, TensorFlow operations can create new tensors that are modified copies of the original tensors.
 
-## What this repo focuses on
+## What this section focuses on
 This specific folder on the repository focuses on creating tensors in tensorflow using pre-determined values to generating tensors w/ random values. Additionally, these notebooks experiment w/ indexing, getting information, encoding, and manipulating tensors. There is also a dedicated section to matrix multiplication using tensors which is an essential process used by many ML algorithms in modifying and discovering patterns. 
 
 
