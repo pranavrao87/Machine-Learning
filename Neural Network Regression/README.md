@@ -1,5 +1,4 @@
 # Neural Network Regression with TensorFlow
-Overview
 This README provides an introduction to neural network regression, with a specific focus on linear regression, and its implementation using the TensorFlow library. It explains the concept of regression, outlines the neural network approach, demonstrates how to use TensorFlow to build and train a linear regression model, and includes a section on normalizing data.
 
 # What is Regression?
