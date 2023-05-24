@@ -32,6 +32,11 @@ To build a linear regression model using TensorFlow, the following steps can be 
 8. Train the model by repeatedly feeding the normalized training data, running the optimizer, and adjusting the parameters.
 9. Evaluate the trained model's performance on unseen data by making predictions and comparing them to the actual values.
 
+# Models
+There are two simple linear regression models in this folder. 
+- The first is a Medical Insurance model which predicts the cost of a person's insurance based on a few inputs.
+- The second is a Californian housing price model which predicts the median house price in california based on its location and other deciding factors
+
 # Conclusion
 Neural network regression, specifically linear regression, is a powerful technique for predicting continuous numerical values. By leveraging TensorFlow, building and training linear regression models becomes more accessible and efficient. TensorFlow's extensive capabilities, along with data normalization techniques, make it a valuable tool for implementing and experimenting with various regression models in the field of machine learning.
 
