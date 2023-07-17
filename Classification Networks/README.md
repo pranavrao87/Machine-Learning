@@ -1,6 +1,6 @@
 # Classification Models and Neural Networks
 ## Overview
-This README provides an introduction to classification models and neural networks, explaining the concept of classification and how neural networks can be used for both binary and multiclass classification tasks. It outlines the differences between binary and multiclass classification and highlights the importance of neural networks in handling complex classification problems.
+This README provides an introduction to classification models and neural networks, explaining the concept of classification and how neural networks can be used for both binary and multiclass classification tasks. It outlines the differences between binary and multiclass classification and highlights the importance of neural networks in handling complex classification problems. These notebooks provide multiple examples of models built and fit to solve various different classification problems (generally image classification).
 
 ## What is Classification?
 Classification problems involve predicting discrete class labels or categories for input data. The goal is to classify data points into predefined classes based on their features. Each data point belongs to one and only one class, and the model's objective is to learn the mapping between features and classes from labeled training data.
